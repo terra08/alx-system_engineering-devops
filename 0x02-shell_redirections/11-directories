@@ -1,0 +1,2 @@
+#!/bin/bash
+find . _type d ! -path . -print | wc -1
